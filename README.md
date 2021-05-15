@@ -51,9 +51,3 @@ Média final: 6.5
 Situação: Prova final
 
 Se a opção 3 for escolhida no menu do programa, então o programa deverá imprimir na tela todos os alunos, seguindo as mesmas condições para impressão do boletim, exceto pelo fato de que o programa não deve solicitar o código, já que vai imprimir todos os registros.
-
-O programa deverá ser submetido no ambiente virtual, através de um arquivo .zip, contendo os seguintes arquivos:
-
-* Código fonte do programa no arquivo .java;
-* Arquivo que contém o programa a ser executado no arquivo .class;
-* Arquivo que contém um manual de utilização do seu programa no formato .pdf. Este manual deve conter o passo a passo da instalação e configuração do Java Development Kit em seu computador, além de alguns casos de teste do seu programa, mostrando que todas os recursos estão funcionando corretamente. Todas as informações devem ser ilustradas por prints das telas, com as devidas explicações.
